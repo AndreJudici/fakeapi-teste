@@ -1,4 +1,4 @@
-
+{
   "movimentacoes": [
     {
       "id":"1",
@@ -24,3 +24,4 @@
       "usuario": "Luiz",
       "observacao": "Consumo em comanda"      
     }]
+}
