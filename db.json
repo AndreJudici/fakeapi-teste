@@ -23,5 +23,17 @@
       "numerodocumento": "34",
       "usuario": "Luiz",
       "observacao": "Consumo em comanda"      
+    },
+    {
+      "id":"3"
+      "id_produto": "2",
+      "tipo": "entrada",
+      "quantidade": "40",
+      "preco_custo": "30",
+      "datahora": "16/05/2022 11:12",
+      "tipodocumento": "Compra",
+      "numerodocumento": "2",
+      "usuario": "André",
+      "observacao": "Compra do fornecedor Marte"      
     }]
 }
