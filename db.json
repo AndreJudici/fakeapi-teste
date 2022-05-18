@@ -11,17 +11,5 @@
       "numerodocumento": "1",
       "usuario": "André",
       "observacao": "Compra do fornecedor Ibisa"      
-    },
-    {
-      "id":"2",
-      "id_produto": "1",
-      "tipo": "saida",
-      "quantidade": "3",
-      "preco_custo": "50",
-      "datahora": "18/05/2022 10:00",
-      "tipodocumento": "Comanda",
-      "numerodocumento": "34",
-      "usuario": "Luiz",
-      "observacao": "Consumo em comanda"      
     }]
 }
