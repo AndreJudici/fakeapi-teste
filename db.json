@@ -1,6 +1,6 @@
 {
   "movimentacoes": [
-    {"id":"1", "id_produto": "1", "tipo": "entrada", "quantidade": "100", "preco_custo": "50.00", "datahora": "17/05/2022 09:10", "tipodocumento": "Compra", "numerodocumento": "1", "usuario": "André", "observacao": "Compra do fornecedor Ibisa"},
+    {"id":"1", "id_produto": "1", "tipo": "entrada", "quantidade": "100", "preco_custo": "50.01", "datahora": "17/05/2022 09:10", "tipodocumento": "Compra", "numerodocumento": "1", "usuario": "André", "observacao": "Compra do fornecedor Ibisa"},
     {"id":"2", "id_produto": "2", "tipo": "entrada", "quantidade": "30", "preco_custo": "50", "datahora": "18/05/2022 19:10", "tipodocumento": "Compra", "numerodocumento": "2", "usuario": "André", "observacao": "Compra do fornecedor Ibisa 2" },
     {"id":"3", "id_produto": "3", "tipo": "entrada", "quantidade": "90", "preco_custo": "35", "datahora": "16/05/2022 20:13", "tipodocumento": "Compra", "numerodocumento": "3", "usuario": "Luiz", "observacao": "Compra do fornecedor Ibisa 5" },
     {"id":"4", "id_produto": "4", "tipo": "entrada", "quantidade": "6", "preco_custo": "91", "datahora": "17/05/2022 09:10", "tipodocumento": "Compra", "numerodocumento": "1", "usuario": "André", "observacao": "Compra do fornecedor Ibisa"},
